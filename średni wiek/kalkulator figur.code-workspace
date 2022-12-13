@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../kalkulator figur"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../fizz buzz"
+		},
+		{
+			"path": "../generator haseł"
+		}
+	],
+	"settings": {}
+}
